@@ -1,5 +1,5 @@
 # React Project : music player with the library
-It's the very first React project, using SASS. 
+It's the very first React project, using SCSS. 
 * Date: 2020.12.01
 * Content: After taking React online course, I made this web application, trying to remember what I learned from the course. This music player is more like clone-coding project rather than creating it on my own from the beginning. It was good chance to practice how to deal with props and state.
 
